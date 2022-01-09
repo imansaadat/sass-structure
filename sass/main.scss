@@ -1,0 +1,19 @@
+//abstracts
+@use 'abstracts' as *;
+
+// base > rest
+@use 'base/reset' as *;
+
+// components
+@use 'components' as *;
+
+//layout
+@use 'layout' as *;
+
+// pages
+@use 'pages' as *;
+
+// vendors > bootstrap
+@use 'vendors/bootstrap' as *;
+
+
